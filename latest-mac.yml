@@ -1,0 +1,17 @@
+version: 2.0.1
+files:
+  - url: TomAccounting-2.0.1-arm64-mac.zip
+    sha512: nPCOYvzFBxV5RZZ2AAa8sqMN8pnrcbudNuNKAr+7rHIgbu8XuFaVSkK3P5gDkGFpKxoBIbQ5U5TYt4ZUB4SAnw==
+    size: 105458657
+  - url: TomAccounting-2.0.1-mac.zip
+    sha512: 1FdYz1eQ7DT2hXXhKT+CIupHW+hCFYEOiTi3C4vtoOPMKwU++UlQz3E+96AvmnHniQGI3lFhDPF8k/+yLSHm8g==
+    size: 105728267
+  - url: TomAccounting-2.0.1-arm64.dmg
+    sha512: R7QZ+dP19nYfoYvcK5ccLNSls3SNJNujVv3BYtG+2emNdW4m9PJSH0eW09lowrc+gfPHIzoVtY++Isj2ptKAIQ==
+    size: 109815304
+  - url: TomAccounting-2.0.1.dmg
+    sha512: Tg0qHIvcT8EtZKt+X6dfcu8CkgV85AfkyJLhd5ucm4KkSQcwrH8+awhaX53CIBfoJI23ztEbIPEgS1f5bMrRzw==
+    size: 109826457
+path: TomAccounting-2.0.1-arm64-mac.zip
+sha512: nPCOYvzFBxV5RZZ2AAa8sqMN8pnrcbudNuNKAr+7rHIgbu8XuFaVSkK3P5gDkGFpKxoBIbQ5U5TYt4ZUB4SAnw==
+releaseDate: '2022-09-13T10:03:04.073Z'
